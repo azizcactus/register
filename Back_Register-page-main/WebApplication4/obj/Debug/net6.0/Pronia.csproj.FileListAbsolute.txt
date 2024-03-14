@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.AssemblyInfo.cs
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\Back_Register-page-main\Back_Register-page-main\WebApplication4\obj\Debug\net6.0\Pronia.RazorAssemblyInfo.cs
